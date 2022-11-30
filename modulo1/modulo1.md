@@ -13,7 +13,7 @@ Al presionarse el botón B
  
  ![image](modulo1.PNG)
  
- [modulo.hex](modulo1.hex)
+ [modulo1.hex](modulo1.hex)
 ## Actividad 2
 A continuación, detallamos los pasos a seguir para utilizar el sensor de
 temperatura para mostrar sus valores en la pantalla al presionar los botones A y B.
