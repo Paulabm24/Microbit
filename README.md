@@ -1,5 +1,5 @@
 # Microbit
-## 0.Introduccion
+## Introduccion
 ¿Qué es STEAM? ¿Qué es una placa Microbit?
 
 
