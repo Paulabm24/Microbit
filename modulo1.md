@@ -13,7 +13,7 @@ Al presionarse el botón B
  
  ![image](modulo1.PNG)
  
- ![image](modulo1.hex)
+ [modulo.hex](modulo1.hex)
 ## Actividad 2
 A continuación, detallamos los pasos a seguir para utilizar el sensor de
 temperatura para mostrar sus valores en la pantalla al presionar los botones A y B.
@@ -24,7 +24,7 @@ mostrar número (temperatura (ºC))
  
  ![image](modulo1.2.PNG)
  
- ![image](modulo1.2.hex)
+ [modulo1.2.hex](modulo1.2.hex)
 ## Actividad 3
 Por último, detallamos los pasos a seguir para mostrar en pantalla un icono si
 agitamos la Micro:bit.
@@ -35,7 +35,7 @@ mostrar icono (icono)
  
  ![image](modulo1.3.PNG)
   
-  ![image](modulo1.3.hex)
+  [modulo1.3.hex](modulo1.3.hex)
 
 
 
