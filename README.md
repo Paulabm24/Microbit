@@ -13,6 +13,7 @@
 ## [5.- Proyecto](proyecto.md)
 ## [Referencias](referencias.md)
 ## [Autores](autores.md)
-## [Licencia](licencia.md)
+## Licencia
+![images](licencia.png)
 
 
