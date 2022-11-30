@@ -11,7 +11,7 @@ Al presionarse el botón A
 Al presionarse el botón B
  mostrar LEDs (cara triste)
  
- ![image](modulo1.png)
+ ![image](modulo1.PNG)
  
  ![image](modulo1.hex)
 ## Actividad 2
@@ -22,7 +22,7 @@ programamos el botón A:
 Al presionarse el botón A
 mostrar número (temperatura (ºC))
  
- ![image](modulo1.2.png)
+ ![image](modulo1.2.PNG)
  
  ![image](modulo1.2.hex)
 ## Actividad 3
@@ -33,7 +33,7 @@ programamos si la placa detecta que la hemos agitado:
 Sí “agitado”
 mostrar icono (icono)
  
- ![image](modulo1.3.png)
+ ![image](modulo1.3.PNG)
   
   ![image](modulo1.3.hex)
 
