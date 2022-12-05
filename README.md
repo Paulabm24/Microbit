@@ -13,7 +13,7 @@
 ## [5.- Proyecto](proyecto.md)
 ## [Referencias](referencias.md)
 ## Autores
-Paula Brito Milán
+Realizado por Paula Brito Milán
 ## Licencia
 ![images](licencia.png)
 
