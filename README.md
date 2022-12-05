@@ -1,6 +1,6 @@
 # Microbit
 ## Introduccion
-¿Qué es STEAM? ¿Qué es una placa Microbit?
+## ¿Qué es STEAM? ¿Qué es una placa Microbit?
 - El término STEAM surge de las siglas en inglés de:  Science, Technology, Engineering, Arts & Mathematics.
 - Es un dispositivo del tamaño de una tarjeta de crédito, compuesto por un ordenador de placa única (SBC) que cuenta con diversos sensores, varias entradas para anexar otros elementos de hardware y conexión inalámbrica mediante Bluetooth.
 
