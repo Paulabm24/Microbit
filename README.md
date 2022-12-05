@@ -12,7 +12,8 @@
 ## [4.- Modulo 4: Ampliación](modulo4/modulo4.md)
 ## [5.- Proyecto](proyecto.md)
 ## [Referencias](referencias.md)
-## [Autores](autores.md)
+## Autores
+Paula Brito Milán
 ## Licencia
 ![images](licencia.png)
 
