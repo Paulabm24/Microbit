@@ -25,7 +25,8 @@ mostrar icono (rombo)
 mostrar icono (cuadrado)
 mostrar icono (rombo)
 mostrar número “escoger al azar de 1 a 6”
- ![image](modulo21.PNG)
+ ![image](modulo2.1.PNG)
+ 
  [modulo2.1.hex](modulo21.hex)
 
 ## Actividad 3
@@ -37,6 +38,6 @@ LA MI FA SOL FA MI RE RE FA LA SOL FA MI MI FA SOL LA RE RE
 A continuación, programaremos en la placa para que al presionar el botón suene
 la melodía programando tono a tono teniendo en cuenta de su se trata de un tono
 de un pulso, de medio pulso o de dos pulsos:
- ![image](modulo22.PNG)
+ ![image](modulo2.2.PNG)
  [modulo2.2.hex](modulo22.hex)
 
