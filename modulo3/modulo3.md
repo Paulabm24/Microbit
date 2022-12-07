@@ -16,6 +16,9 @@ Actividad 1 - Ampliación
 4. Por último, no debemos olvidar mostrar la variable en la pantalla de la placa.
 Para hacerlo de manera continua, colocaremos el bloque “mostrar número”
 en el interior del bloque “para siempre”.
+![image](modulo3.PNG)
+ 
+ [modulo3.hex](modulo3.hex)
 ## Ampliacion Actividad 1
 Para hacer que el cambio de la variable sea continuo, lo incluimos en el bloque
 “para siempre” con una condición: si el botón A está presionado, cambiamos la
@@ -31,6 +34,9 @@ bloque “para siempre” con una condición: si el botón A está presionado,
 cambiamos la variable en -1. De igual modo, si el botón B está presionado,
 cambiamos la variable en 1 unidad. En caso contrario, no modificamos la
 variable.
+![image](modulo3.1.PNG)
+ 
+ [modulo1.hex](modulo31.hex)
 ## Actividad 2
 Para crear una imagen grande y programar la placa para que inicialmente se
 muestre la parte central de la imagen y, al presionar los botones A y B, la imagen
@@ -43,3 +49,6 @@ b) Crear una variable con la que mover la imagen dándole valores
 ascendientes o descendientes, en función de si se presionan los
 botones.
 c) Mostrar la imagen en la pantalla de la placa.
+![image](modulo3.2.PNG)
+ 
+ [modulo1.hex](modulo32.hex)
