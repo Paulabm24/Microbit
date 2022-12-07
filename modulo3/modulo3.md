@@ -36,7 +36,7 @@ cambiamos la variable en 1 unidad. En caso contrario, no modificamos la
 variable.
 ![image](modulo3.1.PNG)
  
- [modulo1.hex](modulo31.hex)
+ [modulo3.1.hex](modulo31.hex)
 ## Actividad 2
 Para crear una imagen grande y programar la placa para que inicialmente se
 muestre la parte central de la imagen y, al presionar los botones A y B, la imagen
@@ -51,4 +51,4 @@ botones.
 c) Mostrar la imagen en la pantalla de la placa.
 ![image](modulo3.2.PNG)
  
- [modulo1.hex](modulo32.hex)
+ [modulo3.2.hex](modulo32.hex)
