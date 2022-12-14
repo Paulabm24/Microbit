@@ -10,7 +10,7 @@
 ## [2.-Módulo2: Programación básica  1](modulo2/modulo2.md)
 ## [3.- Modulo 3: Programación básica 2](modulo3/modulo3.md)
 ## [4.- Modulo 4: Ampliación](modulo4/modulo4.md)
-## [5.- Proyecto](proyecto.md)
+## [5.- Proyecto](modulo5/proyecto.md)
 ## [Referencias](referencias.md)
 ## Autores
 Realizado por Paula Brito Milán
